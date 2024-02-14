@@ -1,6 +1,6 @@
 
 
-## Olá, eu sou Rapha Dev, desenvolvedor front-end!
+## Olá sou Rapha Dev, desenvolvedor front-end!
 
 
 <div style="display: inline_block"><br>
